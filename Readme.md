@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikita Bhendarkar
 
-🎧 **Software Engineer @ BeatsVibe Technologies**  
+🎧 **Software Engineer @BeatsVibe Technologies**  
 💻 Passionate about building impactful, user-focused digital experiences  
 🚀 Constantly learning, growing, and exploring new technologies  
 
